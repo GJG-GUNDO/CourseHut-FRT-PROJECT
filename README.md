@@ -54,6 +54,5 @@ development is done using Visual Studio Code and hosted on Azure Static Web Apps
 <img width="1680" alt="Screenshot 2022-07-11 at 10 47 01 AM" src="https://user-images.githubusercontent.com/91524314/178193865-0e9396b7-31cf-4cf4-8e03-2da59123f1e3.png">
 <img width="1680" alt="Screenshot 2022-07-11 at 10 47 08 AM" src="https://user-images.githubusercontent.com/91524314/178193866-67170b1f-f7d7-4d0c-9ff1-4bd52f9c58ab.png">
 <img width="1680" alt="Screenshot 2022-07-11 at 10 47 14 AM" src="https://user-images.githubusercontent.com/91524314/178193867-99e2369e-b67a-48eb-acc6-e8c421eb9d4f.png">
-
-  
-
+ <img width="1680" alt="Screenshot 2022-07-11 at 11 01 29 AM" src="https://user-images.githubusercontent.com/91524314/178195357-c7db2405-3e8d-492f-b38a-3fb0010d2131.png">
+<img width="1680" alt="Screenshot 2022-07-11 at 11 01 16 AM" src="https://user-images.githubusercontent.com/91524314/178195347-cfef3d19-85fe-4349-bc27-78b69ee4f56a.png">
