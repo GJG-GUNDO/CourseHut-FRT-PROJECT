@@ -6,7 +6,7 @@
 ## project description
     We as students and also developers search for bazillion of courses and dont know which plaform to trust we look through various paid sites youtube and     even local tututors to learn the skill and sometimes we aren't able to learn the skill as either the tutor is not experienced or the syllabus is not       that great or the technology provided to him like his pc or accessories are not maintained or are of high quality thus leading to noise in learning
 
-development is done using Visual Studio Code and hosted on Azure Static Web Apps
+    development is done using Visual Studio Code and hosted on Azure Static Web Apps
 
     I have created a prototype website which will provide the state of the art learning technologies with some of the best teachers in the world, so that       every learner regardless of their background will be provided with the help they need. As well as cover them all, we will also provide state-of-the-art     courses and blogs that will give them a complete overview of how to learn a technology or anything else in a magnificent way without taking our courses     and providing them with information about all the latest trends and news so they can stay up-to-date. As English is a common language today, our           website and courses will be in English. The project will also include placement support and a strong platform for learners to learn skills while           getting a job at the same time.
 
